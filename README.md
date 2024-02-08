@@ -6,4 +6,4 @@ Github is used for the pair project assigned in evidence based business analytic
 
 **Now let's explore markdown functions in github to make blog contents**
 
-You can also provide links to other contents, be it any blog, article or any discussion reports. These are especially used for inserting references for your text/ statement. For instance, Kanban History: From 1950s Factory Floor to Today’s Remote Teams(https://www.toptal.com/project-managers/project-management-consultant/kanban-remote-teams) holds valuable lessions for today's distributed project teams from auto manufacturing in the 1950s to the modern digital workplace.
+You can also provide links to other contents, be it any blog, article or any discussion reports. These are especially used for inserting references for your text/ statement. For instance, [Kanban History: From 1950s Factory Floor to Today’s Remote Teams](https://www.toptal.com/project-managers/project-management-consultant/kanban-remote-teams) holds valuable lessions for today's distributed project teams from auto manufacturing in the 1950s to the modern digital workplace.
